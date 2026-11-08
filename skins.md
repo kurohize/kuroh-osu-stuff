@@ -27,7 +27,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ---
 
-### 03. Skin Name
+### X - ! kuroh template skin
 
 ![Skin Preview](IMAGE_LINK)
 
