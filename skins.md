@@ -1,8 +1,8 @@
 
-# osu!mania Skins
+# my skins
 
 A collection of my osu!mania skins.
-Made by **kuroh**.
+All of them are made by me **kuroh**; if you wish to edit them, I ask that you give me credit for the original version.
 
 ---
 
@@ -14,10 +14,7 @@ Made by **kuroh**.
 
 | Information | Details |
 |:--|:--|
-| Author | kuroh |
-| Game | osu!mania |
 | Modes | 4K / 6K / 7K |
-| Version | 1.0 |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
 
@@ -29,10 +26,7 @@ Made by **kuroh**.
 
 | Information | Details |
 |:--|:--|
-| Author | kuroh |
-| Game | osu!mania |
 | Modes | 4K / 6K / 7K |
-| Version | 1.0 |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
 
@@ -44,10 +38,7 @@ Made by **kuroh**.
 
 | Information | Details |
 |:--|:--|
-| Author | kuroh |
-| Game | osu!mania |
 | Modes | 4K / 6K / 7K |
-| Version | 1.0 |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
 
