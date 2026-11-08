@@ -53,15 +53,15 @@ Made by **kuroh**.
 
 ---
 
-## Installation
+## If you’d like to make edits, here are some sites I recommend...
 
-1. Download the `.osk` file.
-2. Open the downloaded file.
-3. osu! will automatically import the skin.
-4. Select the skin in osu!mania settings.
+- [**photopea**](https://www.photopea.com/)
+- Open the downloaded file.
+- osu! will automatically import the skin.
+- Select the skin in osu!mania settings.
 
 ---
 
 <p align="center">
-  <sub>© kuroh — osu!mania skins</sub>
+  <sub>by kuroh :3</sub>
 </p>
