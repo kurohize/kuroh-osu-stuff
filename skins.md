@@ -10,10 +10,12 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ### 01. Skin Name
 
-| | |
 |:--|:--|
 ![Skin Preview](IMAGE_LINK)
 
+
+| Information | Details |
+|:--|:--|
 | Modes | 4K / 6K / 7K |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
