@@ -32,7 +32,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 ![Skin Preview](IMAGE_LINK)
 
 | key modes | 4K-9K |
-*this particular skin includes several editable .psd files.
+*this particular skin includes several editable .psd files.*
 
 [**download**](DOWNLOAD_LINK)
 
