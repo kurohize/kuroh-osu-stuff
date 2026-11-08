@@ -22,7 +22,7 @@ key modes: 4K, 6K, 7K
 
 key modes: 4K-7K
 
-[**download**](DOWNLOAD_LINK)
+- [**download**](DOWNLOAD_LINK)
 
 ---
 
@@ -34,7 +34,7 @@ key modes: 4K-9K
 
 <sub>this is my skin template; it includes .psd files.</sub>
 
-[**download**](DOWNLOAD_LINK)
+- [**download**](DOWNLOAD_LINK)
 
 ---
 
