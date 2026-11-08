@@ -10,7 +10,7 @@
 ![Skin Preview](IMAGE_LINK)
 
 
-key modes: 4K, 6K, 7K
+4K, 6K, 7K
 
 - [**download**](DOWNLOAD_LINK)
 
