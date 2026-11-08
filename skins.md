@@ -53,15 +53,14 @@ Made by **kuroh**.
 
 ---
 
-## If you’d like to make edits, here are some sites I recommend...
+## if you’d like to make edits, here are some sites i recommend checking out...
 
-- [**photopea**](https://www.photopea.com/)
-- Open the downloaded file.
-- osu! will automatically import the skin.
-- Select the skin in osu!mania settings.
+- [**photopea**](https://www.photopea.com/) - free online image editor
+- [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning) - the official skinning wiki
+- [**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy) - desmos calculator for centered columns
 
 ---
 
 <p align="center">
-  <sub>by kuroh :3</sub>
+  <sub>:3</sub>
 </p>
