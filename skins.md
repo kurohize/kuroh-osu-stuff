@@ -1,5 +1,5 @@
 
-# all my skins
+### all my skins
 
 all of them are made by me **kuroh**; if you wish to edit them, i ask that you give me credit for the original version.
 
@@ -38,7 +38,7 @@ key modes: 4K-9K
 
 ---
 
-## if you’d like to make edits, here are some sites i recommend checking out...
+### if you’d like to make edits, here are some sites i recommend checking out
 
 - [**photopea**](https://www.photopea.com/) - free online image editor
 - [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning) - the official skinning wiki
