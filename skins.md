@@ -6,14 +6,11 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ---
 
-## Skins
-
 ### 01. Skin Name
 
 ![Skin Preview](IMAGE_LINK)
 
 
-|:--|:--|
 | key modes | 4K, 6K, 7K |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
@@ -24,8 +21,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ![Skin Preview](IMAGE_LINK)
 
-|:--|:--|
-| Modes | 4K / 6K / 7K |
+| key modes | 4K, 6K, 7K |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
 
@@ -35,8 +31,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ![Skin Preview](IMAGE_LINK)
 
-|:--|:--|
-| Modes | 4K / 6K / 7K |
+| key modes | 4K, 6K, 7K |
 
 [**Download Skin (.osk)**](DOWNLOAD_LINK)
 
