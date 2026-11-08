@@ -12,7 +12,7 @@ all of them are made by me **kuroh**; if you wish to edit them, i ask that you g
 
 key modes: 4K, 6K, 7K
 
-[**download**](DOWNLOAD_LINK)
+- [**download**](DOWNLOAD_LINK)
 
 ---
 
