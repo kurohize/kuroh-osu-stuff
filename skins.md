@@ -12,7 +12,6 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ![Skin Preview](IMAGE_LINK)
 
-| Information | Details |
 |:--|:--|
 | Modes | 4K / 6K / 7K |
 
@@ -24,7 +23,6 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ![Skin Preview](IMAGE_LINK)
 
-| Information | Details |
 |:--|:--|
 | Modes | 4K / 6K / 7K |
 
@@ -36,7 +34,6 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 ![Skin Preview](IMAGE_LINK)
 
-| Information | Details |
 |:--|:--|
 | Modes | 4K / 6K / 7K |
 
