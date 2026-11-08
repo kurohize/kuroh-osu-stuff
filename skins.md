@@ -1,5 +1,5 @@
 
-### all my skins
+### my skins
 
 all of them are made by me **kuroh**; if you wish to edit them, i ask that you give me credit for the original version.
 
