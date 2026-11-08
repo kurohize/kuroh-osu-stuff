@@ -13,7 +13,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 | key modes | 4K, 6K, 7K |
 
-[**Download Skin**](DOWNLOAD_LINK)
+[**download**](DOWNLOAD_LINK)
 
 ---
 
@@ -23,7 +23,7 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 
 | key modes | 4K, 6K, 7K |
 
-[**Download Skin**](DOWNLOAD_LINK)
+[**download**](DOWNLOAD_LINK)
 
 ---
 
@@ -32,8 +32,9 @@ All of them are made by me **kuroh**; if you wish to edit them, I ask that you g
 ![Skin Preview](IMAGE_LINK)
 
 | key modes | 4K-9K |
+*this particular skin includes several editable .psd files.
 
-[**Download Skin**](DOWNLOAD_LINK)
+[**download**](DOWNLOAD_LINK)
 
 ---
 
