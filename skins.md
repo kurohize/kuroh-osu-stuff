@@ -32,7 +32,8 @@ key modes: 4K-7K
 ![Skin Preview](IMAGE_LINK)
 
 key modes: 4K-9K
-<sub>this particular skin includes several editable .psd files.</sub>
+
+<sub>this is my skin template; it includes .psd files.</sub>
 
 [**download**](DOWNLOAD_LINK)
 
