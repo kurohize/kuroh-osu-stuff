@@ -2,9 +2,9 @@
 ###
 
 ---
-
+<p align="center">
 ### kurohi
-
+</p>
 ![Skin Preview](IMAGE_LINK)
 
 
@@ -14,18 +14,18 @@
 
 ---
 
-### if you’d like to make edits, here are some sites i recommend checking out
+### sites that i use
 
-[**photopea**](https://www.photopea.com/) - free online image editor
+[**photopea**](https://www.photopea.com/)
 
-[**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning) - the official skinning wiki
+[**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning)
 
-[**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy) - desmos calculator for centered columns (also made by me!!)
+[**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy)
 
-[**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0) - convert HD images to SD
+[**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0)
 
 ---
 
 <p align="center">
-  <sub>...</sub>
+  <sub>.</sub>
 </p>
