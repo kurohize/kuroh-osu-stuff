@@ -1,8 +1,8 @@
-
+<p align="center">
 ###
 
 ---
-<p align="center">
+
 ### kurohi
 </p>
 ![Skin Preview](IMAGE_LINK)
@@ -26,6 +26,5 @@
 
 ---
 
-<p align="center">
   <sub>.</sub>
 </p>
