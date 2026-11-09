@@ -1,10 +1,9 @@
-<p align="center">
 ###
 
 ---
 
 ### kurohi
-</p>
+
 ![Skin Preview](IMAGE_LINK)
 
 
@@ -25,6 +24,3 @@
 [**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0)
 
 ---
-
-  <sub>.</sub>
-</p>
