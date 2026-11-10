@@ -4,11 +4,13 @@
 
 ## *kuroh*
 
-<div align="center" style="border: 1px solid #444; padding: 10px; border-radius: 8px;">
-
-  <img src="https://media.discordapp.net/attachments/1569569815621013545/1569569852547399762/kuroh.jpg?ex=6af3ef56&is=6af29dd6&hm=2cae97000a38f98094fb65b85b03ed7645419667248c117c505a9b14f6ec7019&=&format=webp&width=1536&height=864" style="max-width: 100%; max-height: 300px; object-fit: contain;">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569569852547399762/kuroh.jpg?ex=6af3ef56&is=6af29dd6&hm=2cae97000a38f98094fb65b85b03ed7645419667248c117c505a9b14f6ec7019&=&format=webp&width=1536&height=864" width="400">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
