@@ -13,7 +13,7 @@
 
 ---
 
-### *sites i use for skinning*.
+### *stuff i use for skinning*.
 
 - [**photopea**](https://www.photopea.com/)
 - [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning)
