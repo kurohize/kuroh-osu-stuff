@@ -2,7 +2,7 @@
 
 ---
 
-### kurohi
+### kuroh
 
 ![Skin Preview](IMAGE_LINK)
 
