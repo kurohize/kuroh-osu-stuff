@@ -1,4 +1,4 @@
-### *All my skins will stay here*
+### *All my mania stuff will stay here in github*
 
 ---
 
@@ -10,9 +10,9 @@
 
 ### *Stuff i use for skinning.*
 
-- [**photopea**](https://www.photopea.com/)
-- [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning)
-- [**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy)
-- [**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0)
+| [**photopea**](https://www.photopea.com/)
+| [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning)
+| [**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy)
+| [**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0)
 
 ---
