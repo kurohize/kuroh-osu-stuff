@@ -6,8 +6,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569569852547399762/kuroh.jpg?ex=6af3ef56&is=6af29dd6&hm=2cae97000a38f98094fb65b85b03ed7645419667248c117c505a9b14f6ec7019&=&format=webp&width=1536&height=864" width="1000">
+    <td>
+      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574217614098432/4k.jpg?ex=6af3f366&is=6af2a1e6&hm=93cc19d22f7bb0ae843515cc74a40781b0dfa459554dcecaea91610d06bedb51&=&format=webp" width="500">
+    </td>
+    <td>
+      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574237054705684/7k.jpg?ex=6af3f36b&is=6af2a1eb&hm=c9a75f04dc8537cde2fbfee051540ebe1dd4bf31b400c1936313b02dce775fef&=&format=webp" width="500">
     </td>
   </tr>
 </table>
