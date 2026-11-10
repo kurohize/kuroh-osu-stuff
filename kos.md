@@ -17,7 +17,7 @@
 
 <div align="center">
   
-[**Download**](https://cdn.discordapp.com/attachments/1569569815621013545/1569569902644170852/kuroh.osk?ex=6af3ef61&is=6af29de1&hm=2e63ab7334f4757b62748152caa8aed1c76ba1f9ef9c05178c4ead5ef8a1c2a8&)
+[**Download**](https://cdn.discordapp.com/attachments/1569569815621013545/1569594935324311642/kuroh.osk?ex=6af406b2&is=6af2b532&hm=76fe2cc04e59a4f29e50052f197576ebf3f790b70721faaaedad0d700fae648c&)
   
 </div>
 
