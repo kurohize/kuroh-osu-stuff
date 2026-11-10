@@ -9,13 +9,18 @@
 [**Download**](https://cdn.discordapp.com/attachments/1569569815621013545/1569569902644170852/kuroh.osk?ex=6af3ef61&is=6af29de1&hm=2e63ab7334f4757b62748152caa8aed1c76ba1f9ef9c05178c4ead5ef8a1c2a8&)
   
 </div>
+
 ---
 
+<div align="center">
+  
 ### *Stuff i use for skinning.*
 
 | [**photopea**](https://www.photopea.com/)
 | [**skinning wiki**](https://osu.ppy.sh/wiki/en/Skinning)
 | [**mania centered columns**](https://www.desmos.com/calculator/8cixl7q8gy)
 | [**HD to SD**](https://github.com/Jose134/HDtoSD/releases/tag/1.0)
+
+</div>
 
 ---
