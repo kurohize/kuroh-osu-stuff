@@ -1,8 +1,8 @@
-# *All my mania stuff will stay here in github*
+## *my skins*
 
 ---
 
-## *kuroh*
+### *kuroh*
 
 <table align="center">
   <tr>
