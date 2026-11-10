@@ -7,10 +7,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574217614098432/4k.jpg?ex=6af3f366&is=6af2a1e6&hm=93cc19d22f7bb0ae843515cc74a40781b0dfa459554dcecaea91610d06bedb51&=&format=webp" width="500">
+      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574217614098432/4k.jpg?ex=6af3f366&is=6af2a1e6&hm=93cc19d22f7bb0ae843515cc74a40781b0dfa459554dcecaea91610d06bedb51&=&format=webp" width="700">
     </td>
     <td>
-      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574237054705684/7k.jpg?ex=6af3f36b&is=6af2a1eb&hm=c9a75f04dc8537cde2fbfee051540ebe1dd4bf31b400c1936313b02dce775fef&=&format=webp" width="500">
+      <img src="https://media.discordapp.net/attachments/1569569815621013545/1569574237054705684/7k.jpg?ex=6af3f36b&is=6af2a1eb&hm=c9a75f04dc8537cde2fbfee051540ebe1dd4bf31b400c1936313b02dce775fef&=&format=webp" width="700">
     </td>
   </tr>
 </table>
